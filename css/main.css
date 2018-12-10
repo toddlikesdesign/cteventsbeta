@@ -1934,7 +1934,7 @@ button,
   .wrapper.alt {
     padding: 0; }
   .wrapper.style1 {
-    background: url("/images/banner.jpg") center center no-repeat; }
+    background: url("images/banner.jpg") center center no-repeat; }
   .wrapper.style2 {
     background-color: #2e3842; }
   .wrapper.style3 {
@@ -2417,10 +2417,10 @@ body.is-loading #banner:after {
 /* Main */
 #main > header {
   padding: 12em 0 10em 0 ;
-  background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
-  background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
-  background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
-  background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
+  background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/banner.jpg");
+  background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/banner.jpg");
+  background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/banner.jpg");
+  background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/banner.jpg");
   background-attachment: fixed;
   background-position: center center;
   background-repeat: no-repeat;
@@ -2510,10 +2510,10 @@ body.is-mobile.landing #page-wrapper .ctlogo {
 }
 
 body.landing #page-wrapper {
-  background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
-  background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
-  background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
-  background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
+  background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/banner.jpg");
+  background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/banner.jpg");
+  background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/banner.jpg");
+  background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/banner.jpg");
   background-attachment: fixed;
   background-position: center center;
   background-repeat: no-repeat;
@@ -2523,15 +2523,15 @@ body.landing #footer {
   background-color: rgba(29, 36, 42, 0.9); }
 
 body.is-mobile.landing #page-wrapper {
-  background: url("/images/bannersmall.jpg") top center no-repeat; 
+  background: url("images/bannersmall.jpg") top center no-repeat; 
   background-size: 1000px;
 }
 body.is-mobile.landing #banner,
 body.is-mobile.landing .wrapper.style4 {
-  background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
-  background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
-  background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
-  background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/banner.jpg");
+  background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/banner.jpg");
+  background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/banner.jpg");
+  background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/banner.jpg");
+  background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/banner.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover; }
@@ -2570,33 +2570,33 @@ body.is-mobile.landing #footer {
   margin: 0; }
 
 .corporate {
-  background: url(../images/corporate.jpg) -45px -277px no-repeat;
+  background: url(images/corporate.jpg) -45px -277px no-repeat;
   opacity: 0.9; }
 
 .grandopenings {
-  background: url(../images/grandopenings.jpg) -45px -277px no-repeat;
+  background: url(images/grandopenings.jpg) -45px -277px no-repeat;
   opacity: 0.9; }
 
 .awards {
-  background: url(../images/awards.jpg) no-repeat;
+  background: url(images/awards.jpg) no-repeat;
   opacity: 0.9; }
 
 .productlaunches {
-  background: url(../images/productlaunches.jpg) -256px -324px no-repeat;
+  background: url(images/productlaunches.jpg) -256px -324px no-repeat;
   opacity: 0.9; }
 
 .groundbreakings {
-  background: url(../images/groundbreakings.jpg) -240px -370px no-repeat;
+  background: url(images/groundbreakings.jpg) -240px -370px no-repeat;
   opacity: 0.9; }
 
 .nonprofit {
-  background: url(../images/nonprofit.jpg) -315px -90px no-repeat;
+  background: url(images/nonprofit.jpg) -315px -90px no-repeat;
   opacity: 0.9; }
 
 .privateevents {
-  background: url(../images/privateevents.jpg) -219px -285px no-repeat;
+  background: url(images/privateevents.jpg) -219px -285px no-repeat;
   opacity: 0.9; }
 
 .festivals {
-  background: url(../images/festivals.jpg) -125px -200px no-repeat;
+  background: url(images/festivals.jpg) -125px -200px no-repeat;
   opacity: 0.9; }
